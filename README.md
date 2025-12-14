@@ -1,6 +1,6 @@
 # Project-Rebirth
 
-**Project-Rebirth** は、「今までの自分と訣別し、新しい自分を創る」ことを目的とした  
+**Project-Rebirth** は、「今までの自分と訣別し、新しい自分を創る」ことを目的とした
 自己改善・学習プロジェクトです。
 
 ## 📂 プロジェクト構成
@@ -11,19 +11,24 @@ Project-Rebirth/
 
 ├── study-log/
 
-└── javascript30/
+├── javascript30/
+
+└── DailyTrial-Beginner/
 
 
-- `study-log/`  
+- `study-log/`
   → 毎週の学習記録を Markdown 形式で保存します。
 
-- `javascript30/`  
+- `javascript30/`
   → JavaScript30 の取り組み内容、メモ、成果物などをまとめます。
+
+- `DailyTrial-Beginner/`
+  → 【デイトラ】Webアプリ開発コース初級編 の取り組み内容、メモ、成果物などをまとめます。
 
 ## 🎯 目的
 
-- 学習習慣の定着  
-- 小さな成功体験の積み重ね  
+- 学習習慣の定着
+- 小さな成功体験の積み重ね
 - 新しい自分になるための継続的な自己変革
 
 ## 🧭 運用ルール
@@ -39,7 +44,7 @@ Project-Rebirth/
 
 ## 📑 Conventional Commits（コミット規約）
 
-本プロジェクトでは、履歴をわかりやすくするため  
+本プロジェクトでは、履歴をわかりやすくするため
 **Conventional Commits** に基づいたコミットメッセージを使用します。
 
 ### 🔤 基本構造
@@ -60,19 +65,19 @@ Project-Rebirth/
 ### 🗂 scope（対象）
 任意。対象フォルダや範囲を書くとわかりやすい。
 
-例：  
-- `feat(study-log): ...`  
-- `docs(readme): ...`  
+例：
+- `feat(study-log): ...`
+- `docs(readme): ...`
 - `chore(gitignore): ...`
 
 ### ✍ subject（要約）
-- 50文字以内  
-- 文末に「.」は付けない  
+- 50文字以内
+- 文末に「.」は付けない
 - 現在形で書く（Add, Update, Fix など）
 
 ---
 
-# 📋 .gitignoreテンプレ  
+# 📋 .gitignoreテンプレ
 
 ```gitignore
 # Node
