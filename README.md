@@ -11,9 +11,7 @@ Project-Rebirth/
 
 ├── study-log/
 
-├── javascript30/
-
-└── DailyTrial-Beginner/
+└── javascript30/
 
 
 - `study-log/`
